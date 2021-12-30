@@ -1,0 +1,13 @@
+color 1.0 0.0 0.0 0.5
+pnt2D 0.0 0.0
+pnt2D 0.5 -1.0
+pnt2D 1.0 0.0
+pnt2D 1.0 1.0
+pnt2D 0.0 1.0
+pol2D
+color 0.0 1.0 0.0 0.5
+pnt2D 0.1 0.1
+pnt2D 1.1 0.1
+pnt2D 1.1 1.1
+pnt2D 0.1 1.1
+pol2D
